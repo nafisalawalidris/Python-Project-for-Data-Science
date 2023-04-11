@@ -5,7 +5,7 @@ Description: Extracting essential data from a dataset and displaying it is a nec
 <h2>Table of Contents</h2>
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <ul>
-        <li>Define a Function that Makes a Graph</li>
+        Define a Function that Makes a Graph</li>
         <li>Question 1: Use yfinance to Extract Stock Data</li>
         <li>Question 2: Use Webscraping to Extract Tesla Revenue Data</li>
         <li>Question 3: Use yfinance to Extract Stock Data</li>
